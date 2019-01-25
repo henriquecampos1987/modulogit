@@ -1,0 +1,8 @@
+function valida_cpf(double cpf){
+
+  sdfjkshfgçlkfhsdçglhçfds
+  sfdgkfçsdjgçdsfjgçlksfdjçgljdsfdfsgçdsfçjglkfdsj
+  dlkfsjgçdsfkjgçlfjkdsçgjdsfçjkgçsjfdgçljfsdçljgçlsfdjkgçlk
+  dflkjgçsdfkjgçjfdsçgjçsfdjgçsdjfçgjsdfçkjgçsdfjgçlkdfjgkfkkdsfopsrjflçsdjf
+ 
+}
